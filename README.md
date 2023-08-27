@@ -7,8 +7,8 @@ Kullanılan Teknolojiler: HTML - CSS - JS
 Türkçe Dil Desteği eklendi
 ````
 
-English Version
+English Version Ekran kaydı
 <img src="restaurant-ekrankaydi.gif">
 
-Türkçe Versiyon
+Türkçe Versiyon Ekran kaydı
 <img src="restaurant-turkce-ekrankaydi.gif">
